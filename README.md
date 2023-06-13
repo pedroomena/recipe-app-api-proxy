@@ -1,3 +1,5 @@
+[![pipeline status](https://gitlab.com/pedroomena/recipe-app-api-proxy/badges/main/pipeline.svg)](https://gitlab.com/pedroomena/recipe-app-api-proxy/-/commits/main)
+
 # Recipe App API Proxy
 
 NGINX proxy app
